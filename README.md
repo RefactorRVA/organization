@@ -12,7 +12,7 @@ Anyone can contribute and help organize the group. This is *our* group and helpi
 
 Everything here is tracked via Github issues. We also use issue labels to help filter topics. The general idea is to start an issue and talk about it.
 
-* [All Issues](https://github.com/refactorrva/organizing/issues?state=open)
+* [All Issues](https://github.com/refactorrva/organization/issues?state=open)
 
 ### Next Meetups
 
